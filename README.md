@@ -17,4 +17,4 @@ stackoverflow, weworkremotely, remoteok에서 채용공고 찾기
 |Save|csv 저장|
 
 ### 수정사항
-[ ] remoteok.py / status_code 503
+- [ ] remoteok.py / status_code 503
