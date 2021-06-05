@@ -1,5 +1,5 @@
 # python-challenge
-Nomad Coders - Pythond으로 웹 스크래퍼 만들기 / 챌린지(파이썬 2주 완성반)
+Nomad Coders - Python으로 웹 스크래퍼 만들기 / 챌린지(파이썬 2주 완성반)
 
 Job Scrapper
 ------------
